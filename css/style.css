@@ -1,0 +1,13 @@
+.box{
+    min-height: 100px;
+    background-color: blue;
+    margin-bottom: 10px;
+    color: red;
+}
+.alert_style{
+            background-color: brown;
+            color: white;
+}
+.center{
+       text-align: center;
+}
